@@ -1,4 +1,4 @@
-![docker-registry-worker](https://github-production-user-asset-6210df.s3.amazonaws.com/82713549/525941155-52e5e119-6f93-48dd-83fe-cabe76b384b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251212T151007Z&X-Amz-Expires=300&X-Amz-Signature=51fc886bb60dd73290682a64246d9649428d13a9508c51a1ed356ebbdb5577b9&X-Amz-SignedHeaders=host)
+![docker-registry-worker](./docker-mirror.png)
 
 # راه اندازی میرور شخصی داکر 🐳 با ورکر های کلاودفلر
 
