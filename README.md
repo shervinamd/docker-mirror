@@ -37,5 +37,5 @@ Signed-By: /etc/apt/keyrings/docker.asc
 EOF
 ```
 
-> [!TIP]
+> [!NOTE]
 > این پروژه به کمک LLM نوشته شده و اگر ایده ای برای بهبود اش دارین لطفا دریغ نکنید :)
