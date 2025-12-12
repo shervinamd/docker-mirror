@@ -54,6 +54,6 @@ EOF
 
 راه اندازی و تست این سرویس رو میتونید از طریق این لینک ها مشاهده کنید:
 
-*[Tutorial video in PeerTube}(https://tubedu.org/w/qjxednJRExbpcC1QEYa9qS)*
+*[Tutorial video in PeerTube](https://tubedu.org/w/qjxednJRExbpcC1QEYa9qS)*
 
 *[Tutorial video in YouTube](https://youtu.be/dbm3oHTTaT8)*
